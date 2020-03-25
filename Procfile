@@ -1,1 +1,1 @@
-web: node inex.js
+web: heroku-php-apache2 public/
