@@ -1,9 +1,6 @@
-
 <?php
 
 namespace App\Controller;
-
-use App\Entity\Panier;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\BrowserKit\Response;
