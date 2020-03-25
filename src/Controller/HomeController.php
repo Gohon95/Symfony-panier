@@ -10,7 +10,7 @@ use Symfony\Component\BrowserKit\Response;
 use Symfony\Component\Routing\Annotation\Route;
 
 /**
- *  @Route("/panier")
+ *  @Route("/")
  */
 class HomeController extends AbstractController
 {
